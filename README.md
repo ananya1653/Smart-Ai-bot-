@@ -1,10 +1,10 @@
-<h2>Smart Mental Health Detector and Prevention Chatbot</h2>
+<h1>Smart Mental Health Detector and Prevention Chatbot</h1>
 
-<h1>Overview</h1>
+<h2>Overview</h2>
 
 The Smart Mental Health Detector and Prevention Chatbot is an AI-powered chatbot designed to assess mental well-being and provide preventive measures to users. It integrates Natural Language Processing (NLP) and Machine Learning (ML) to analyze user responses and offer personalized mental health insights and support. This chatbot aims to bridge the gap between users and mental health professionals by providing early detection, self-care recommendations, and emergency assistance if required.
 
-<h1>Features</h1>
+<h2>Features</h2>
 
 AI-Based Mental Health Assessment: Uses NLP to analyze user responses and detect potential mental health issues such as stress, anxiety, or depression.
 
@@ -18,7 +18,7 @@ Progress Tracking: Allows users to monitor their mental health status over time.
 
 Privacy & Security: Ensures confidentiality and data security for user interactions.
 
-<h1>Technologies Used</h1>
+<h2>Technologies Used</h2>
 
 Frontend: React.js / Next.js, Tailwind CSS
 
